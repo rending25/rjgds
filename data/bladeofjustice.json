@@ -1,0 +1,18 @@
+{
+    "id": 35448603,
+    "name": "Blade Of Justice",
+    "author": "Manix",
+    "creators": [],
+    "verifier": "justice",
+    "verification": "https://youtu.be/6018CbEjA-4?si=7b19frjWGwM1NhZ-",
+    "percentToQualify": "63",
+    "password": "Free To Copy",
+    "records": [
+            {
+            "user": "rending",
+            "link": "https://youtu.be/RfSZdz1PDf0",
+            "percent": 83%,
+            "hz": 165
+        }
+    ]
+}
